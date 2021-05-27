@@ -1,0 +1,7 @@
+C:\Users\Billyrosehag\source\repos\NetProgrammeringsTest\NetProgrammeringsTest\bin\Debug\NetProgrammeringsTest.exe.config
+C:\Users\Billyrosehag\source\repos\NetProgrammeringsTest\NetProgrammeringsTest\bin\Debug\NetProgrammeringsTest.exe
+C:\Users\Billyrosehag\source\repos\NetProgrammeringsTest\NetProgrammeringsTest\bin\Debug\NetProgrammeringsTest.pdb
+C:\Users\Billyrosehag\source\repos\NetProgrammeringsTest\NetProgrammeringsTest\obj\Debug\NetProgrammeringsTest.csprojAssemblyReference.cache
+C:\Users\Billyrosehag\source\repos\NetProgrammeringsTest\NetProgrammeringsTest\obj\Debug\NetProgrammeringsTest.csproj.CoreCompileInputs.cache
+C:\Users\Billyrosehag\source\repos\NetProgrammeringsTest\NetProgrammeringsTest\obj\Debug\NetProgrammeringsTest.exe
+C:\Users\Billyrosehag\source\repos\NetProgrammeringsTest\NetProgrammeringsTest\obj\Debug\NetProgrammeringsTest.pdb
